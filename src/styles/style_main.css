@@ -1,0 +1,38 @@
+/* #app {
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #2c3e50;
+}
+button {
+  background: royalblue;
+  color: #fff;
+  padding: 10px;
+  font-size: 15px;
+  border: none;
+  border-radius: 45px;
+  cursor: pointer;
+}
+p {
+  max-width: 320px;
+}
+.card {
+  box-shadow: 1px 1px 4px gray;
+  padding: 20px;
+  border-radius: 25px;
+  max-width: 420px;
+  margin-top: 15px;
+}
+.options {
+  background: #fff;
+}
+.myFlex {
+  display: flex;
+  justify-content: flex-end;
+}
+.success {
+  background: green;
+}
+.primary {
+  background: royalblue;
+} */
